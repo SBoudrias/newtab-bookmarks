@@ -5,6 +5,6 @@
   "dependencies": {},
   "devDependencies": {
     "grunt-contrib": "*",
-    "grunt": "~0.3"
+    "grunt": "~1.0.1"
   }
 }
